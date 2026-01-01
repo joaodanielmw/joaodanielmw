@@ -1,12 +1,37 @@
-## Hello! 
+## João Daniel M. Weng 
 
-My name is João Daniel. I am an undergraduate software engineering student (5/8) at the Universidade do Contestado (UnC), in Santa Catarina, Brazil. I have a strong interest in low-level development, although web development is also something I enjoy investing my time in. My usual environment:
+**`Software Engineering Student | Back-end Developer`** <img align="left" width="20" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /> <img align="left" width="20" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> 
 
-![skills](https://skillicons.dev/icons?i=vscode,vim,ubuntu,windows,git)
+Currently into the 5th semester at the Universidade do Contestado (UnC), in Santa Catarina, Brazil. I have a strong interest in low-level development, particularly in understanding how systems work close to the hardware, memory, and execution model. At the same time, I actively enjoy web development, where I can apply these fundamentals to build practical, user-facing software.
 
-### Main technologies
+![state](https://custom-icon-badges.demolab.com/badge/Santa_Catarina-BRA-darkgreen?style=for-the-badge&logo=location&logoColor=white) ![email](https://custom-icon-badges.demolab.com/badge/-joaomweng@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white) ![language](https://custom-icon-badges.demolab.com/badge/-EN/PT/ES-rebeccapurple?style=for-the-badge&logo=translate&logoColor=white) [![language](https://custom-icon-badges.demolab.com/badge/-Linkedin-white?style=for-the-badge&logo=lin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-daniel-engsoftware/)
 
-![javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) ![nodejs](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![php](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white) ![laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![cpp](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![cmake](https://img.shields.io/badge/Cmake-%23064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![mariadb](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-#### Learning
-![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Tools :toolbox:
+
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br />
+<br />
+
+**Looking forward ⚡️**
+
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+<img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+<br />
+<hr>
+
+### Currently developing...
+- An auxiliary software at the request of the Universidade do Contestado Foundation under a merit-based scholarship program.
