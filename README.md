@@ -6,8 +6,6 @@ Currently into the 5th semester at the Universidade do Contestado (UnC), in Sant
 
 ![state](https://custom-icon-badges.demolab.com/badge/Santa_Catarina-BRA-darkgreen?style=for-the-badge&logo=location&logoColor=white) ![email](https://custom-icon-badges.demolab.com/badge/-joaomweng@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white) ![language](https://custom-icon-badges.demolab.com/badge/-EN/PT/ES-rebeccapurple?style=for-the-badge&logo=translate&logoColor=white) [![language](https://custom-icon-badges.demolab.com/badge/-Linkedin-white?style=for-the-badge&logo=lin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-daniel-engsoftware/)
 
----
-
 ### Tools :toolbox:
 
 <img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -23,7 +21,7 @@ Currently into the 5th semester at the Universidade do Contestado (UnC), in Sant
 <img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
-<br />
 
+#
 ### Currently developing...
 - An auxiliary software at the request of the Universidade do Contestado Foundation under a merit-based scholarship program.
