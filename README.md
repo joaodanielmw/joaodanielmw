@@ -20,9 +20,3 @@ Currently into the 5th semester at the Universidade do Contestado (UnC), in Sant
 <img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="40" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<br />
-<br />
-
-#
-### Currently developing...
-- An auxiliary software at the request of the Universidade do Contestado Foundation under a merit-based scholarship program.
